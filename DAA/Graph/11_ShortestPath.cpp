@@ -1,0 +1,1 @@
+Shortest parth in a wei
